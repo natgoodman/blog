@@ -1,7 +1,7 @@
 ---
 title: "Nat's Website"
 author: "Nathan (Nat) Goodman"
-date: "December 3, 2018"
+date: "December 5, 2018"
 output:
   github_document:
     html_preview: no
@@ -20,14 +20,14 @@ I am a retired computer scientist. I spent the first half of my career doing mai
 
 ## Working Papers and Blog Posts
 
-- [Measures of Replication Success](https://natgoodman.github.io/repwr/mesr.stable.html) (in progress)
+- [Measuring Replication Success](https://natgoodman.github.io/repwr/mesr.stable.html)
 <br/>
-by Nat, in progress
+by Nat, December 5, 2018<br/>
 *Statisticians have devised numerous statistical tests for deciding whether a replication passes or fails, thus validating of refuting the original result. I call these tests "measures". Elsewhere I report results from simulating these tests across a range of conditions. Here I describe the measures themselves and provide implementation details for ones that aren't obvious.*
 
 - [Noncentral d2t-Distribution Applied to Measures of Replication Success](https://natgoodman.github.io/repwr/stats.stable.html)
 <br/>
-by Nat, December 7, 2018<br/>
+by Nat, December 3, 2018<br/>
 *Statisticians have devised numerous statistical tests for deciding whether a replication passes or fails, thus validating of refuting the original result. The noncentral t-distribution underlies many of these tests. I developed software that repackages R's built-in functions for the noncentral t-distribution to operate on sample size (instead of degrees of freedom), population effect size (instead of the noncentrality parameter), and observed effect size (instead of the t-statistic). I call this the d2t-distribution.*
 
 - [Systematic Replication May Make Many Mistakes](https://natgoodman.github.io/repwr/resig.stable.html). Short version of [Systematic Replication Has Limited Power to Detect Bad Science](https://natgoodman.github.io/repwr/repwr.stable.html) below
