@@ -1,7 +1,7 @@
 Nat's Website
 ================
 Nathan (Nat) Goodman
-December 5, 2018
+December 20, 2018
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 Welcome to my incipient website! It's just a landing page with links to recent working papers and blog posts. Clicking on a title takes you to the latest released version of the article on GitHub Pages. For articles published on blogs elsewhere, there's also a link to the posting.
@@ -13,6 +13,8 @@ I am a retired computer scientist. I spent the first half of my career doing mai
 
 Working Papers and Blog Posts
 -----------------------------
+
+-   [Preregistration: Hold the Bus!](https://natgoodman.github.io/pregr/holdit.stable.html) <br/> by Nat, December 20, 2018<br/> *A short rejoinder to a recent [news piece in Nature](https://www.nature.com/articles/d41586-018-07118-1) that reported in glowing terms on the “first analysis of ‘pre-registered’ studies”. The study in question is a preprint [Open Science challenges, benefits and tips in early career and beyond](https://psyarxiv.com/3czyt/). My assessment is not so rosy.*
 
 -   [Measuring Replication Success](https://natgoodman.github.io/repwr/mesr.stable.html) <br/> by Nat, December 5, 2018<br/> *Statisticians have devised numerous statistical tests for deciding whether a replication passes or fails, thus validating of refuting the original result. I call these tests "measures". Elsewhere I report results from simulating these tests across a range of conditions. Here I describe the measures themselves and provide implementation details for ones that aren't obvious.*
 

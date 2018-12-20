@@ -3,9 +3,9 @@ title: "Nat's Website"
 author: "Nathan (Nat) Goodman"
 date: "December 20, 2018"
 output:
-  html_document: default
   github_document:
     html_preview: no
+  html_document: default
 linkcolor: cyan
 citecolor: green
 urlcolor: blue
