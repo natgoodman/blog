@@ -22,7 +22,8 @@ I am a retired computer scientist. I spent the first half of my career doing mai
 
 - [Preregistration: Hold the Bus!](https://natgoodman.github.io/pregr/holdit.stable.html)
 <br/>
-by Nat, December 20, 2018<br/>
+by Nat, January 1, 2019, with edits by Bob Reed (thanks!)<br/>
+kindly posted by Bob Reed on [The Replication Network](https://replicationnetwork.com/2019/01/01/goodman-hold-the-bus/)<br/>
 *A short rejoinder to a recent [news piece in Nature](https://www.nature.com/articles/d41586-018-07118-1) that reported in glowing terms on the “first analysis of ‘pre-registered’ studies”. The study in question is a preprint [Open Science challenges, benefits and tips in early career and beyond](https://psyarxiv.com/3czyt/). My assessment is not so rosy.*
 
 - [Measuring Replication Success](https://natgoodman.github.io/repwr/mesr.stable.html)
