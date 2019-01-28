@@ -1,7 +1,7 @@
 Nat's Website
 ================
 Nathan (Nat) Goodman
-December 20, 2018
+January 21, 2019
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 Welcome to my incipient website! It's just a landing page with links to recent working papers and blog posts. Clicking on a title takes you to the latest released version of the article on GitHub Pages. For articles published on blogs elsewhere, there's also a link to the posting.
@@ -33,4 +33,4 @@ Working Papers and Blog Posts
 Comments Please!
 ----------------
 
-Please post comments using the [GitHub Issue Tracker](https://github.com/natgoodman/blog/issues).
+Please post comments on [Twitter](https://twitter.com/gnatgoodman) or [Facebook](https://www.facebook.com/nathan.goodman.3367), or contact me by email <natg@shore.net>.
