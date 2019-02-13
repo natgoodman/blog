@@ -20,9 +20,9 @@ I am a retired computer scientist. I spent the first half of my career doing mai
 
 ## Working Papers and Blog Posts
 
-- [Significance Makes Bad Choices](https://natgoodman.github.io/misig/ovrfx.stable.html)
+- [When You Select Significant Findings, You’re Selecting Inflated Estimates](https://natgoodman.github.io/misig/ovrfx.stable.html)
 <br/>
-by Nat, February 3, 2019<br/>
+by Nat, February 13, 2019, with edits by Bob Reed (thanks!)<br/>
 *Replication researchers cite inflated effect sizes as a major cause of replication failure. It turns out this is an inevitable consequence of significance testing. The reason is simple. The p-value you get from a study depends on the observed effect size, with bigger[^1] observed effect sizes giving better p-values; the true effect size plays no role. Significance testing selects studies with good p-values, hence large observed effect sizes. This selection bias guarantees that on average, the observed effect size will inflate the true effect size. The overstimate is large, 2-3x, under conditions typical in social science research. Possible solutions are to increase sample size or effect size or abandon significance testing.*
 
 - [Preregistration: Hold the Bus!](https://natgoodman.github.io/pregr/holdit.stable.html)
