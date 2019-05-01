@@ -23,6 +23,7 @@ I am a retired computer scientist. I spent the first half of my career doing mai
 - [Your P-Values are Too Small! And So Are Your Confidence Intervals!](https://natgoodman.github.io/misig/ovrht.stable.html)
 <br/>
 by Nat, May 1, 2019, with edits by Bob Reed (thanks!)<br/>
+kindly posted by Bob Reed on [The Replication Network](https://replicationnetwork.com/2019/05/01/your-p-values-are-too-small-and-so-are-your-confidence-intervals/)<br/>
 *An oft-overlooked detail in the significance debate is the challenge of calculating correct p-values and confidence intervals, the favored statistics of the two sides. Standard methods rely on assumptions about how the data were generated and can be way off when the assumptions don't hold. Papers on heterogenous effect sizes by [Kenny and Judd](https://osf.io/qs9xw/) and [McShane and Böckenholt](https://doi.org/10.1177/1745691614548513) present a compelling scenario where the standard calculations are highly optimistic. Even worse, the errors grow as the sample size increases, negating the usual heuristic that bigger samples are better.*
 
 - [When You Select Significant Findings, You’re Selecting Inflated Estimates](https://natgoodman.github.io/misig/ovrfx.stable.html)
