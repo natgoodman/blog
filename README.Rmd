@@ -1,11 +1,11 @@
 ---
 title: "Nat's Website"
 author: "Nathan (Nat) Goodman"
-date: "May 1, 2019"
+date: "June 12, 2019"
 output:
+  html_document: default
   github_document:
     html_preview: no
-  html_document: default
 linkcolor: cyan
 citecolor: green
 urlcolor: blue
@@ -19,6 +19,11 @@ Welcome to my incipient website! It's just a landing page with links to recent w
 I am a retired computer scientist. I spent the first half of my career doing mainstream CS and the second half in bioinformatics. I split my years pretty evenly between academia and industry. My academic positions included faculty spots at Harvard and Boston University, and research scientist positions at the Whitehead Institute Genome Center (led by Eric Lander), the Jackson Laboratory, and the Institute for Systems Biology (in Lee Hood's lab). In industry, I mostly worked in startups and other small companies with positions running the gamut from programmer to president.  As a retiree, I'm working on an eclectic mix of projects that interest me, stopping from time-to-time to write papers and posts on aspects that might interest others. I'm also doing a little consulting for select clients developing innovative, important products.
 
 ## Working Papers and Blog Posts
+
+- [Supplementary Material](https://natgoodman.github.io/misig/READMEsupp.stable.html) for [Mistakes of Significance repo](https://github.com/natgoodman/misig)
+<br/>
+by Nat, June 12, 2019<br/>
+*Contains supplementary material for the [README document](https://natgoodman.github.io/misig/README.stable.html) associated with [this repo](https://github.com/natgoodman/misig). It's not meant to be read as a standalone document. It's more of a "usage test" demonstrating that all major functions work in the limited setting of this document. It proved it's worth in this regard, driving out several bugs and leading to software improvements. The document exercises all capabilities of the program: simulation and other data generation, plotting of figures, and saving of summary results. It has figures showing each plot function applied to each kind of data that can be sensibly displayed using that function.*
 
 - [Your P-Values are Too Small! And So Are Your Confidence Intervals!](https://natgoodman.github.io/misig/ovrht.stable.html)
 <br/>
