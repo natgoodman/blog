@@ -1,7 +1,7 @@
 Nat's Website
 ================
 Nathan (Nat) Goodman
-June 12, 2019
+June 19, 2019
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 Welcome to my incipient website! It's just a landing page with links to recent working papers and blog posts. Clicking on a title takes you to the latest released version of the article on GitHub Pages. For articles published on blogs elsewhere, there's also a link to the posting.
@@ -13,6 +13,8 @@ I am a retired computer scientist. I spent the first half of my career doing mai
 
 Blog Posts
 ----------
+
+-   [A Friendly Debate About Pre-Registration](A%20Friendly%20Debate%20about%20Pre-Registration) <br/> by Nat and Bob Reed, June 19, 2019<br/> *I'm generally pessimistic about the benefits of pre-registration, while Bob Reed is generally optimistic. The post is a back-and-forth dialogue between us. My main point is that pre-registration is essential for confirmatory work but irrelevant for exploratory research. And moreover, most published research is exploratory even when the authors claim the work was hypothesis-driven. Bob argues that pre-registration is valuable for exploratory research, too, by reducing the temptation for investigators to graze through data looking for patterns. Good arguments on both sides!*
 
 -   [Your P-Values are Too Small! And So Are Your Confidence Intervals!](https://natgoodman.github.io/misig/ovrht.stable.html) <br/> by Nat, May 1, 2019, with edits by Bob Reed (thanks!)<br/> kindly posted by Bob Reed on [The Replication Network](https://replicationnetwork.com/2019/05/01/your-p-values-are-too-small-and-so-are-your-confidence-intervals/)<br/> *An oft-overlooked detail in the significance debate is the challenge of calculating correct p-values and confidence intervals, the favored statistics of the two sides. Standard methods rely on assumptions about how the data were generated and can be way off when the assumptions don't hold. Papers on heterogenous effect sizes by [Kenny and Judd](https://osf.io/qs9xw/) and [McShane and Böckenholt](https://doi.org/10.1177/1745691614548513) present a compelling scenario where the standard calculations are highly optimistic. Even worse, the errors grow as the sample size increases, negating the usual heuristic that bigger samples are better.*
 
