@@ -20,7 +20,7 @@ I am a retired computer scientist. I spent the first half of my career doing mai
 
 ## Blog Posts
 
-- [A Friendly Debate About Pre-Registration](A Friendly Debate about Pre-Registration)
+- [A Friendly Debate About Pre-Registration](https://replicationnetwork.com/2019/06/19/goodman-reed-a-friendly-debate-about-pre-registration/)
 <br/>
 by Nat and Bob Reed, June 19, 2019<br/>
 *I'm generally pessimistic about the benefits of pre-registration, while Bob Reed is generally optimistic. The post is a back-and-forth dialogue between us. My main point is that pre-registration is essential for confirmatory work but irrelevant for exploratory research. And moreover, most published research is exploratory even when the authors claim the work was hypothesis-driven. Bob argues that pre-registration is valuable for exploratory research, too, by reducing the temptation for investigators to graze through data looking for patterns. Good arguments on both sides!*
