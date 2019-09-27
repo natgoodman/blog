@@ -1,7 +1,7 @@
 Nat's Website
 ================
 Nathan (Nat) Goodman
-June 19, 2019
+September 27, 2019
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 Welcome to my incipient website! It's just a landing page with links to recent working papers and blog posts. Clicking on a title takes you to the latest released version of the article on GitHub Pages. For articles published on blogs elsewhere, there's also a link to the posting.
@@ -13,6 +13,8 @@ I am a retired computer scientist. I spent the first half of my career doing mai
 
 Blog Posts
 ----------
+
+-   [What's the True Effect Size? It Depends What You Think](https://natgoodman.github.io/bayez/effit.stable.html) <br/> by Nat, September 27, 2019, with edits by Bob Reed (thanks!)<br/> *What's the true effect size? That's my bottom line question when doing a study or reading a paper. I don't expect an exact answer, of course. What I want is a probability distribution telling where the true effect size probably lies. I used to think confidence intervals answered this question, but they don't except under artificial conditions. A better answer comes from Bayes's formula. But beware of the devil in the priors.*
 
 -   [A Friendly Debate About Pre-Registration](https://replicationnetwork.com/2019/06/19/goodman-reed-a-friendly-debate-about-pre-registration/) <br/> by Nat and Bob Reed, June 19, 2019<br/> *I'm generally pessimistic about the benefits of pre-registration, while Bob Reed is generally optimistic. The post is a back-and-forth dialogue between us. My main point is that pre-registration is essential for confirmatory work but irrelevant for exploratory research. And moreover, most published research is exploratory even when the authors claim the work was hypothesis-driven. Bob argues that pre-registration is valuable for exploratory research, too, by reducing the temptation for investigators to graze through data looking for patterns. Good arguments on both sides!*
 
@@ -28,6 +30,8 @@ Blog Posts
 
 Working Papers
 --------------
+
+-   [Bayesian Basics for Estimating True Effect Size](https://natgoodman.github.io/bayez/baysx.stable.html) <br/> by Nat, September 15, 2019<br/> *This working paper shows an R implementation of Bayes's formula as used in the blog post [What's the True Effect Size? It Depends What You Think](https://natgoodman.github.io/bayez/effit.stable.html) to estimate true effect size in two group difference-of-mean studies. The main point is that the implementation is really, really simple. With all the fuss and bother about Bayesian methods, I imagined it would be incredibly hard to code. Happily not.*
 
 -   [Supplementary Material](https://natgoodman.github.io/misig/READMEsupp.stable.html) for [Mistakes of Significance repo](https://github.com/natgoodman/misig) <br/> by Nat, June 12, 2019<br/> *Contains supplementary material for the [README document](https://natgoodman.github.io/misig/README.stable.html) associated with [this repo](https://github.com/natgoodman/misig). It's not meant to be read as a standalone document. It's more of a "usage test" demonstrating that all major functions work in the limited setting of this document. It proved it's worth in this regard, driving out several bugs and leading to software improvements. The document exercises all capabilities of the program: simulation and other data generation, plotting of figures, and saving of summary results. It has figures showing each plot function applied to each kind of data that can be sensibly displayed using that function.*
 
