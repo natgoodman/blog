@@ -18,7 +18,7 @@ Welcome to my incipient website! It's just a landing page with links to recent w
 
 I am a retired computer scientist. I spent the first half of my career doing mainstream CS and the second half in bioinformatics. I split my years pretty evenly between academia and industry. My academic positions included faculty spots at Harvard and Boston University, and research scientist positions at the Whitehead Institute Genome Center (led by Eric Lander), the Jackson Laboratory, and the Institute for Systems Biology (in Lee Hood's lab). In industry, I mostly worked in startups and other small companies with positions running the gamut from programmer to president.  As a retiree, I'm working on an eclectic mix of projects that interest me, stopping from time-to-time to write papers and posts on aspects that might interest others. I'm also doing a little consulting for select clients developing innovative, important products.
 
-## Blog Posts (see [Working Papers](#working-papers)] below)
+## Blog Posts (see [Working Papers](#working-papers) below)
 
 - [What's the True Effect Size? It Depends What You Think](https://natgoodman.github.io/bayez/effit.stable.html)
 <br/>
