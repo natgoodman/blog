@@ -11,10 +11,8 @@ About Me
 
 I am a retired computer scientist. I spent the first half of my career doing mainstream CS and the second half in bioinformatics. I split my years pretty evenly between academia and industry. My academic positions included faculty spots at Harvard and Boston University, and research scientist positions at the Whitehead Institute Genome Center (led by Eric Lander), the Jackson Laboratory, and the Institute for Systems Biology (in Lee Hood's lab). In industry, I mostly worked in startups and other small companies with positions running the gamut from programmer to president. As a retiree, I'm working on an eclectic mix of projects that interest me, stopping from time-to-time to write papers and posts on aspects that might interest others. I'm also doing a little consulting for select clients developing innovative, important products.
 
-[Jump to Working Papers](#working-papers)
-
-Blog Posts
-----------
+Blog Posts (see [Working Papers](#working-papers)\] below)
+----------------------------------------------------------
 
 -   [What's the True Effect Size? It Depends What You Think](https://natgoodman.github.io/bayez/effit.stable.html) <br/> by Nat, October 2, 2019, with edits by Bob Reed (thanks!)<br/> *What's the true effect size? That's my bottom line question when doing a study or reading a paper. I don't expect an exact answer, of course. What I want is a probability distribution telling where the true effect size probably lies. I used to think confidence intervals answered this question, but they don't except under artificial conditions. A better answer comes from Bayes's formula. But beware of the devil in the priors.*
 
