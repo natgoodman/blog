@@ -1,7 +1,7 @@
 Nat's Website
 ================
 Nathan (Nat) Goodman
-October 5, 2019
+December 1, 2019
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 Welcome to my incipient website! It's just a landing page with links to recent working papers and blog posts. Clicking on a title takes you to the latest released version of the article on GitHub Pages. For articles published on blogs elsewhere, there's also a link to the posting.
@@ -13,6 +13,8 @@ I am a retired computer scientist. I spent the first half of my career doing mai
 
 Blog Posts (see [Working Papers](#working-papers) below)
 --------------------------------------------------------
+
+-   [Ladies And Gentlemen, I Introduce To You, “Plausibility Limits”](https://natgoodman.github.io/misig/confi.stable.html) <br/> by Nat, December 1, 2019, with editorial assistance by Bob Reed (thanks!)<br/> kindly posted by Bob Reed on The Replication Network (TBD)<br/> *Confidence intervals get top billing as the alternative to significance. But beware: confidence intervals rely on the same math as significance and share the same shortcominings. Confidence intervals don't tell where the true effect lies even probabilistically. What they do is delimit a range of true effects that are broadly consistent with the observed effect.*
 
 -   [What's the True Effect Size? It Depends What You Think](https://natgoodman.github.io/bayez/effit.stable.html) <br/> by Nat, October 2, 2019, with edits by Bob Reed (thanks!)<br/> kindly posted by Bob Reed on [The Replication Network](https://replicationnetwork.com/2019/10/05/goodman-whats-the-true-effect-size-it-depends-what-you-think/)<br/>*What's the true effect size? That's my bottom line question when doing a study or reading a paper. I don't expect an exact answer, of course. What I want is a probability distribution telling where the true effect size probably lies. I used to think confidence intervals answered this question, but they don't except under artificial conditions. A better answer comes from Bayes's formula. But beware of the devil in the priors.*
 
