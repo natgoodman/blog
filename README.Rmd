@@ -1,7 +1,7 @@
 ---
 title: "Nat's Website"
 author: "Nathan (Nat) Goodman"
-date: "December 1, 2019"
+date: "`r format(Sys.Date(),'%B %-d, %Y')`"
 output:
   html_document: default
   github_document:
@@ -20,6 +20,11 @@ Welcome to my incipient website! It's just a landing page with links to recent w
 I am a retired computer scientist. I spent the first half of my career doing mainstream CS and the second half in bioinformatics. I split my years pretty evenly between academia and industry. My academic positions included faculty spots at Harvard and Boston University, and research scientist positions at the Whitehead Institute Genome Center (led by Eric Lander), the Jackson Laboratory, and the Institute for Systems Biology (in Lee Hood's lab). In industry, I mostly worked in startups and other small companies with positions running the gamut from programmer to president.  As a retiree, I'm working on an eclectic mix of projects that interest me, stopping from time-to-time to write papers and posts on aspects that might interest others. I'm also doing a little consulting for select clients developing innovative, important products.
 
 ## Blog Posts (see [Working Papers](#working-papers) below)
+
+- [COVID-19 Counts in Washington State and Select Other Locations](https://natgoodman.github.io/covid/updat.stable.html)
+<br/>
+by Nat, November 16, 2020<br/>
+*Counts of cases and deaths are key metrics of COVID-19 prevalence and burden, and are the basis for model-based estimates and predictions of these statistics. The blog post presents graphs showing these metrics over time in Washington state and a few other USA locations of interest to me. I hope to update the graphs weekly.*
 
 - [Ladies And Gentlemen, I Introduce To You, “Plausibility Limits”](https://natgoodman.github.io/misig/confi.stable.html)
 <br/>
