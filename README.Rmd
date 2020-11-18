@@ -1,11 +1,11 @@
 ---
 title: "Nat's Website"
 author: "Nathan (Nat) Goodman"
-date: "`r format(Sys.Date(),'%B %-d, %Y')`"
+date: '`r format(Sys.Date(),"%B %-d, %Y")`'
 output:
-  html_document: default
   github_document:
     html_preview: no
+  html_document: default
   pdf_document: default
 linkcolor: cyan
 citecolor: green
@@ -23,8 +23,10 @@ I am a retired computer scientist. I spent the first half of my career doing mai
 
 - [COVID-19 Counts in Washington State and Select Other Locations](https://natgoodman.github.io/covid/updat.stable.html)
 <br/>
-by Nat, November 16, 2020<br/>
+by Nat, `r readLines("../covid/updat.date",warn=FALSE)`<br/>
 *Counts of cases and deaths are key metrics of COVID-19 prevalence and burden, and are the basis for model-based estimates and predictions of these statistics. The blog post presents graphs showing these metrics over time in Washington state and a few other USA locations of interest to me. I hope to update the graphs weekly.*
+
+Previous versions are [here](https://natgoodman.github.io/covid/updatvsn.html)
 
 - [Ladies And Gentlemen, I Introduce To You, “Plausibility Limits”](https://natgoodman.github.io/misig/confi.stable.html)
 <br/>

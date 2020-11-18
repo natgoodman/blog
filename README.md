@@ -1,7 +1,7 @@
 Nat's Website
 ================
 Nathan (Nat) Goodman
-November 16, 2020
+November 18, 2020
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 Welcome to my incipient website! It's just a landing page with links to recent working papers and blog posts. Clicking on a title takes you to the latest released version of the article on GitHub Pages. For articles published on blogs elsewhere, there's also a link to the posting.
@@ -15,6 +15,8 @@ Blog Posts (see [Working Papers](#working-papers) below)
 --------------------------------------------------------
 
 -   [COVID-19 Counts in Washington State and Select Other Locations](https://natgoodman.github.io/covid/updat.stable.html) <br/> by Nat, November 16, 2020<br/> *Counts of cases and deaths are key metrics of COVID-19 prevalence and burden, and are the basis for model-based estimates and predictions of these statistics. The blog post presents graphs showing these metrics over time in Washington state and a few other USA locations of interest to me. I hope to update the graphs weekly.*
+
+Previous versions are [here](https://natgoodman.github.io/covid/updatvsn.html)
 
 -   [Ladies And Gentlemen, I Introduce To You, “Plausibility Limits”](https://natgoodman.github.io/misig/confi.stable.html) <br/> by Nat, December 1, 2019, with editorial assistance by Bob Reed (thanks!)<br/> kindly posted by Bob Reed on [The Replication Network](https://replicationnetwork.com/2019/12/02/goodman-ladies-and-gentlemen-i-introduce-to-you-plausibility-limits/)<br/> *Confidence intervals get top billing as the alternative to significance. But beware: confidence intervals rely on the same math as significance and share the same shortcominings. Confidence intervals don't tell where the true effect lies even probabilistically. What they do is delimit a range of true effects that are broadly consistent with the observed effect.*
 
