@@ -26,7 +26,7 @@ I am a retired computer scientist. I spent the first half of my career doing mai
 by Nat, `r readLines("../covid/updat.date",warn=FALSE)`<br/>
 *Counts of cases and deaths are key metrics of COVID-19 prevalence and burden, and are the basis for model-based estimates and predictions of these statistics. The blog post presents graphs showing these metrics over time in Washington state and a few other USA locations of interest to me. I hope to update the graphs weekly.*
 
-Previous versions are [here](https://natgoodman.github.io/covid/updatvsn.html)
+    - Previous versions are [here](https://natgoodman.github.io/covid/updatvsn.html) <p/>
 
 - [Ladies And Gentlemen, I Introduce To You, “Plausibility Limits”](https://natgoodman.github.io/misig/confi.stable.html)
 <br/>
