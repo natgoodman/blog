@@ -3,10 +3,10 @@ title: "Nat's Website"
 author: "Nathan (Nat) Goodman"
 date: '`r format(Sys.Date(),"%B %-d, %Y")`'
 output:
+  pdf_document: default
+  html_document: default
   github_document:
     html_preview: no
-  html_document: default
-  pdf_document: default
 linkcolor: cyan
 citecolor: green
 urlcolor: blue
