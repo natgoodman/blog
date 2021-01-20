@@ -1,7 +1,7 @@
 Nat's Website
 ================
 Nathan (Nat) Goodman
-January 12, 2021
+January 20, 2021
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 Welcome to my incipient website! It's just a landing page with links to recent working papers and blog posts. Clicking on a title takes you to the latest released version of the article on GitHub Pages. For articles published on blogs elsewhere, there's also a link to the posting.
@@ -14,7 +14,7 @@ I am a retired computer scientist. I spent the first half of my career doing mai
 Blog Posts (see [Working Papers](#working-papers) below)
 --------------------------------------------------------
 
--   [COVID-19 Counts in Washington State and Select Other Locations](https://natgoodman.github.io/covid/updat.stable.html) <br/> by Nat, January 13, 2021<br/> *Counts of cases and deaths are key metrics of COVID-19 prevalence and burden, and are the basis for model-based estimates and predictions of these statistics. The blog post presents graphs showing these metrics over time in Washington state and a few other USA locations of interest to me. I hope to update the graphs weekly.*
+-   [COVID-19 Counts in Washington State and Select Other Locations](https://natgoodman.github.io/covid/updat.stable.html) <br/> by Nat, January 20, 2021<br/> *Counts of cases and deaths are key metrics of COVID-19 prevalence and burden, and are the basis for model-based estimates and predictions of these statistics. The blog post presents graphs showing these metrics over time in Washington state and a few other USA locations of interest to me. I hope to update the graphs weekly.*
 
     -   Previous versions are [here](https://natgoodman.github.io/covid/updatvsn.html)
         <p/>
