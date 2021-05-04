@@ -1,7 +1,7 @@
 Nat's Website
 ================
 Nathan (Nat) Goodman
-April 27, 2021
+May 4, 2021
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 Welcome to my incipient website! It's just a landing page with links to recent working papers and blog posts. Clicking on a title takes you to the latest released version of the article on GitHub Pages. For articles published on blogs elsewhere, there's also a link to the posting.
@@ -14,7 +14,7 @@ I am a retired computer scientist. I spent the first half of my career doing mai
 Blog Posts (see [Working Papers](#working-papers) below)
 --------------------------------------------------------
 
--   [COVID-19 Counts in Washington State and Select Other Locations](https://natgoodman.github.io/covid/updat.stable.html) <br/> by Nat, April 28, 2021<br/> *Counts of cases and deaths are key metrics of COVID-19 prevalence and burden, and are the basis for model-based estimates and predictions of these statistics. The blog post presents graphs showing these metrics over time in Washington state and a few other USA locations of interest to me. I hope to update the graphs weekly.*
+-   [COVID-19 Counts in Washington State and Select Other Locations](https://natgoodman.github.io/covid/updat.stable.html) <br/> by Nat, May 5, 2021<br/> *Counts of cases and deaths are key metrics of COVID-19 prevalence and burden, and are the basis for model-based estimates and predictions of these statistics. The blog post presents graphs showing these metrics over time in Washington state and a few other USA locations of interest to me. I hope to update the graphs weekly.*
 
     -   Previous versions are [here](https://natgoodman.github.io/covid/updatvsn.html)
         <p/>
@@ -56,3 +56,10 @@ Comments Please!
 ----------------
 
 Please post comments on [Twitter](https://twitter.com/gnatgoodman) or [Facebook](https://www.facebook.com/nathan.goodman.3367), or contact me by email <natg@shore.net>.
+
+Copyright & License
+-------------------
+
+Copyright (c) 2020-2021 Nathan Goodman
+
+The software is **open source and free**, released under the [MIT License](https://opensource.org/licenses/MIT). The documentation is **open access**, released under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0).
